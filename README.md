@@ -16,6 +16,9 @@
 **Project:  INVENTORY MANAGMENT SYSTEM**
 
 
+
+
+
 ![task2](https://github.com/user-attachments/assets/860a5973-1d52-466d-b8ae-3491b3c48b80)
 
 
