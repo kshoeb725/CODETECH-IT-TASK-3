@@ -73,7 +73,6 @@ The primary objective of building an Inventory Management System with Python is 
 - **Libraries**:  
   - `pandas` for data analysis and manipulation.  
   - `tkinter` and `customtkinter` for GUI applications (if building a desktop app).
-  -  
 
 ---
 
